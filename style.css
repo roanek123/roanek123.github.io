@@ -15,8 +15,10 @@ header, footer {
 }
 
 header h1 {
-    color: #fff;
+    color: #ffffff; /* Set color to white */
+    font-weight: bold; /* Make the text bold */
 }
+
 
 main {
     padding: 20px;
